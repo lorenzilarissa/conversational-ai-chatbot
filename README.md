@@ -14,22 +14,13 @@ Chatbot is a Python-based conversational agent that can answer queries about cha
 1. Clone the repository:
 [https://github.com/lorenzilarissa/conversational-ai-chatbot.git](https://github.com/lorenzilarissa/conversational-ai-chatbot/)
 
-markdown
-Copy code
-
 2. Install the required dependencies:
-pip install nltk
-
-markdown
-Copy code
+`pip install nltk`
 
 3. Download the NLTK packages:
-python -m nltk.downloader popular
+`python -m nltk.downloader popular
 python -m nltk.downloader punkt
-python -m nltk.downloader wordnet
-
-markdown
-Copy code
+python -m nltk.downloader wordnet`
 
 4. Place the `chatbot.txt` corpus file in the same directory as the Python script.
 
