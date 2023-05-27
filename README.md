@@ -22,7 +22,9 @@ Chatbot is a Python-based conversational agent that can answer queries about cha
 3. Download the NLTK packages:
 
 `python -m nltk.downloader popular`
+
 `python -m nltk.downloader punkt`
+
 `python -m nltk.downloader wordnet`
 
 4. Place the `chatbot.txt` corpus file in the same directory as the Python script.
