@@ -20,6 +20,7 @@ Chatbot is a Python-based conversational agent that can answer queries about cha
 `pip install nltk`
 
 3. Download the NLTK packages:
+
 `python -m nltk.downloader popular`
 `python -m nltk.downloader punkt`
 `python -m nltk.downloader wordnet`
