@@ -27,7 +27,9 @@ Chatbot is a Python-based conversational agent that can answer queries about cha
 
 `python -m nltk.downloader wordnet`
 
-4. Place the `chatbot.txt` corpus file in the same directory as the Python script.
+4. Run the notebook:
+
+- Open the `convertional_chatbot.ipynb` notebook.
 
 ## Usage
 
