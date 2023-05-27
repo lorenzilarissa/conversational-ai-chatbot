@@ -39,7 +39,7 @@ Chatbot is a Python-based conversational agent that can answer queries about cha
 
 3. The chatbot will greet you and prompt you to enter your queries. You can ask questions or have a conversation about chatbots.
 
-4. To exit the chatbot, simply type "Bye" and press Enter.
+4. To exit the chatbot, simply type "bye" and press Enter.
 
 ## Customization
 
