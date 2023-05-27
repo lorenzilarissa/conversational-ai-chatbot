@@ -12,7 +12,7 @@ Chatbot is a Python-based conversational agent that can answer queries about cha
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/chatbot.git
+[https://github.com/lorenzilarissa/conversational-ai-chatbot.git](https://github.com/lorenzilarissa/conversational-ai-chatbot/)
 
 markdown
 Copy code
