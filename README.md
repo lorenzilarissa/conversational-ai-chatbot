@@ -34,10 +34,8 @@ Chatbot is a Python-based conversational agent that can answer queries about cha
 1. Open a terminal or command prompt and navigate to the project directory.
 
 2. Run the Python script:
-python chatbot.py
 
-perl
-Copy code
+`python chatbot.py`
 
 3. The chatbot will greet you and prompt you to enter your queries. You can ask questions or have a conversation about chatbots.
 
